@@ -1,4 +1,4 @@
-;(function($){
+(function($){
 	function init(form,o){
 		var name=$('.name>input',form)
 			,email=$('.email>input',form)
@@ -12,6 +12,7 @@
 		},o)
 		
 		submit.click(function(){
+			alert(1);
 			vl=true
 			name.add(email).trigger('keyup')
 			if(!$('.invalid',form).length)

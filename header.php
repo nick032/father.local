@@ -10,6 +10,8 @@
 	<link rel="stylesheet" href="css/thumbs.css">
 	<link rel="stylesheet" href="css/slider.css">
 	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="fancybox/source/jquery.fancybox.css">
+
 	<script src="js/jquery.js"></script>
 	<script src="js/jquery-migrate-1.2.1.js"></script>
 	<script src="js/script.js"></script>
@@ -19,29 +21,48 @@
 	<script src="js/jquery.equalheights.js"></script>
 	<script src="js/jquery.easing.1.3.js"></script>
 	<script src="js/jquery.iosslider.min.js"></script>
+	<script src="fancybox/source/jquery.fancybox.pack.js"></script>
 	<script>
 	$(document).ready(function(){
 		$().UItoTop({ easingType: 'easeOutQuart' });
 		});
 	</script>
 	<style>
+		@import 'https://fonts.googleapis.com/css?family=Lobster';
+	</style>
+	<style>
+
 		.logo {
 			width: 71px;
 		}
 		h2.brend {
+			font-family: 'Lobster';
 			width: 590px;
 			text-align: center;
 			font-size: 48px;
 			vertical-align: top;
 			padding-top: 32px;
-			font-weight: 700;
+			font-weight: 500;
 		}
 		.left {
 			float: left;
 		}
 
+		.right {
+			float: right;
+		}
+
 		a.btn {
 			margin-top: 4px;
+		}
+
+		.sf-menu > li > a:hover{
+			cursor: pointer;
+		}
+
+		.fancybox img{
+			width: 20%;
+			padding: 5px;
 		}
 	</style>
 	<!--[if lt IE 8]>
@@ -72,9 +93,9 @@
 						<div class="clear"></div>
 						<nav class="horizontal-nav full-width horizontalNav-notprocessed">
 							<ul class="sf-menu">
-								<li class="current"><a href="/?url=page1">Главная</a></li>
-								<li><a href="/?url=page2">Галлерея</a></li>
-								<li><a href="/?url=page3">Контакты</a></li>
+								<li <?=$current['page1']?>><a href="/?url=page1">Главная</a></li>
+								<li <?=$current['page2']?>><a href="/?url=page2">Галерея</a></li>
+								<li <?=$current['page3']?>><a href="/?url=page3">Контакты</a></li>
 								<!-- <li><a href="/?url=page4">Get Involved</a></li>
 								<li><a href="/?url=page5-">Contacts</a></li> -->
 							</ul>

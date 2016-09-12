@@ -2,29 +2,29 @@
 		<div class="content"><div class="ic">More Website Templates @ TemplateMonster.com - March 24, 2014!</div>
 			<div class="container_12">
 				<div class="grid_12">
-					<h2>Find Us</h2>
+					<h2>Наш адрес</h2>
 					<div class="map">
 						<figure class="">
-							<iframe src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Brooklyn,+New+York,+NY,+United+States&amp;aq=0&amp;sll=37.0625,-95.677068&amp;sspn=61.282355,146.513672&amp;ie=UTF8&amp;hq=&amp;hnear=Brooklyn,+Kings,+New+York&amp;ll=40.649974,-73.950005&amp;spn=0.01628,0.025663&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d152673.52075943066!2d34.206880481016874!3d53.280152162928196!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4132a78d14da3a05%3A0x6ad84109759a19a0!2z0JHRgNGP0L3RgdC6LCDQkdGA0Y_QvdGB0LrQsNGPINC-0LHQuy4!5e0!3m2!1sru!2sru!4v1473656708170" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 						</figure>
 						<div class="grid_4 alpha">
-							<h2>Address:</h2>
+							<h2>Адрес:</h2>
 							<address>
 								<span class="fa fa-home"></span>
-								138 Atlantis Ln <br>
-								Kingsport <br>
-								Illinois 121164
+								г. Брянск <br>
+								ул. Крсноармейская <br>
+								д 5 офис 7
 							</address>
 						</div>
 						<div class="grid_4">
-							<h2>Phones:</h2>
+							<h2>Телефон:</h2>
 							<div class="m_phone">
 								<div class="fa fa-phone"></div>
-								+1 800 559 6580
+								+7 800 559 6580
 							</div>
 							<div class="m_phone">
 								<div class="fa fa-print"></div>
-								+1 504 889 9898138
+								+7 889 9898138
 							</div>
 						</div>
 						<div class="grid_4 omega">
@@ -33,37 +33,36 @@
 						</div>
 						<div class="clear"></div>
 					</div>
-					<h2>Contact Form</h2>
-					24/7 support is available for all <span class="col1"><a href="http://www.templatemonster.com/website-templates.php" rel="nofollow">premium</a></span> themes produced by TemplateMonster. Free themes go without it.
-					<br>
-					If you want a help in customization of the chosen freebie, address to <span class="col1"><a href="http://www.templatetuning.com/" rel="nofollow">TemplateTuning.</a></span>
-					<form id="form">
+					<h2>Связаться с нами</h2>
+					
+					<form id="form" method="post" action="bat/MailHandler.php">
 						<div class="success_wrapper">
 							<div class="success-message">Contact form submitted</div>
 						</div>
 						<label class="name">
-							<input type="text" placeholder="Name:" data-constraints="@Required @JustLetters" />
+							<input type="text" placeholder="Имя:" data-constraints="@Required @JustLetters" required />
 							<span class="empty-message">*This field is required.</span>
 							<span class="error-message">*This is not a valid name.</span>
 						</label>
 						<label class="email">
-							<input type="text" placeholder="Email:" data-constraints="@Required @Email" />
+							<input type="text" placeholder="Email:" data-constraints="@Required @Email" required/>
 							<span class="empty-message">*This field is required.</span>
 							<span class="error-message">*This is not a valid email.</span>
 						</label>
 						<label class="subject">
-							<input type="text" placeholder="Subject:" data-constraints="@Required @JustLetters"/>
+							<input type="text" placeholder="Тема:" data-constraints="@Required @JustLetters" required/>
 							<span class="empty-message">*This field is required.</span>
 							<span class="error-message">*This is not a valid phone.</span>
 						</label>
 						<label class="message">
-							<textarea placeholder="Message:" data-constraints='@Required @Length(min=20,max=999999)'></textarea>
+							<textarea placeholder="Текст сообщения:" data-constraints='@Required @Length(min=20,max=999999)' required></textarea>
 							<span class="empty-message">*This field is required.</span>
 							<span class="error-message">*The message is too short.</span>
 						</label>
 						<div>
 							<div class="clear"></div>
 							<div class="btns">
+								<!-- <input type="submit" class="btn" value="Sen"> -->
 								<a href="#" data-type="reset" class="btn">Clear</a>
 								<a href="#" data-type="submit" class="btn">Send</a>
 							</div>
@@ -72,36 +71,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="bottom_block">
-			<div class="container_12">
-				<div class="grid_4 ">
-					<h3>Stay Informed</h3>
-					<div class="text1">Subscribe to Our Newsletter</div>
-					<form id="newsletter">
-						<div class="rel">
-							<div class="success">Your subscribe request has been sent!</div>
-							<label class="email">
-								<input type="email" value="Enter your Email" >
-								<span class="error">*This is not a valid email address.</span>
-							</label>
-						</div>
-						<a href="#" class="btn" data-type="submit">Submit</a>
-					</form>
-				</div>
-				<div class="grid_5 prefix_3">
-					<h3>Stay Connected</h3>
-					<div class="text1">Follow Us on Social Media Accounts </div>
-					Cras facilisis, nulla vel viverra auctor, leo magna sodales felis, quis malesuada nibh odio ut velit. Proin pharetra
-					<div class="socials">
-						<a href="#"><div class="fa fa-twitter"></div></a>
-						<a href="#"><div class="fa fa-facebook"></div></a>
-						<a href="#"><div class="fa fa-pinterest-square"></div></a>
-						<a href="#"><div class="fa fa-google-plus"></div></a>
-						<a href="#"><div class="fa fa-instagram"></div></a>
-					</div>
-				</div>
-			</div>
-		</div>
+		
 <!--==============================footer=================================-->
 		<footer>
 			<div class="container_12">

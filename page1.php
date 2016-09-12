@@ -29,12 +29,12 @@
 <div class="content">
 	<div class="container_12">
 		<div class="grid_6">
-			<h2>О нас</h2>
+			<h2>Кто мы</h2>
 			<img src="images/page1_img1.jpg" alt="" class="img_inner fleft">
 			<div class="extra_wrapper">
 				<p class="col2">Брянская региональная общественная организация "Союз отцов Брянщины"</p>
 				по поднятию и укреплению роли отца в семье <br>
-				<a href="#" class="btn">Learn More</a>
+				<a href="#about" class="btn">Подробнее</a>
 			</div>
 			<div class="clear"></div>
 		</div>
@@ -43,11 +43,10 @@
 				<div class="rel1">
 					<p>Cодействие укреплению роли традиционных семейных ценностей в жизни общества, поднятие роли отца  как авторитета семьи и как основы гражданского общества.</p>
 				</div>
-				<a href="#" class="btn">Learn More</a>
 			</div>
 	</div>
 	<div class="hor"></div>
-		<div class="container_12">
+	<div class="container_12">
 		<!-- <div class="grid_3">
 			<h2>Latest News</h2>
 			<ul class="list">
@@ -116,7 +115,7 @@
 						<div><span>Homes for Veterans</span></div>
 						</a>
 					</li>
-					<li>
+					<!-- <li>
 						<a href="#">
 						<img src="images/th5.jpg" alt="" />
 						<div><span>Saving Lives</span></div>
@@ -145,9 +144,21 @@
 							<img src="images/th9.jpg" alt="" />
 							<div><span>Against Hunger</span></div>
 						</a>
-					</li>
+					</li> -->
 				</ul>
 			</section>
+		</div>
+	</div>
+	<div class="hor"></div>
+	<div class="container_12">
+		<h2 id="about">О нас</h2>
+		<div class="grid_3">
+			
+			<div><img src="images/big4.jpg" alt="" width="200px"></div>
+		</div>
+		<div class="grid_9">
+			<p>Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Составитель продолжил запятых свое выйти, подпоясал точках, оксмокс наш рукописи там предупредила дал что собрал бросил если вопроса о своего прямо, рыбными за первую. Живет наш, заглавных большого, осталось страну эта! Агенство своего заголовок большой власти домах маленький коварный предупреждал рыбного, грустный, это рукопись имени текстами продолжил грамматики деревни. Его которой точках, lorem, меня приставка, щеке он инициал вершину деревни на берегу, ручеек по всей ты даже коварный злых снова себя силуэт выйти встретил. Семь она, себя точках запятых, вопроса всеми проектах встретил большого свою это большой по всей что грамматики щеке страну.</p>
+
 		</div>
 	</div>
 </div>

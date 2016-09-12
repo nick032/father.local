@@ -7,12 +7,13 @@ function checkParams($str) {
 }
 
 $url = checkParams($_GET['url']);
-
+$current[$url] = "class='current'";
 include "header.php";
 
 if($query == ""){
 	include "page1.php";
 }elseif(isset($url) && !empty($url)){
+	
 	include "$url.php";
 }else {
 	include "404.php";
