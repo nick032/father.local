@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 	<head>
-	<title>Главная</title>
+	<title>Отцы брянщины</title>
 	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width; initial-scale=0.4">
 	<meta name = "format-detection" content = "telephone=no" />
-	<link rel="icon" href="images/favicon.ico">
-	<link rel="shortcut icon" href="images/favicon.ico" />
+	<link rel="icon" href="imagelink rel="shortcut icon" href="images/favicon.ico" />
 	<link rel="stylesheet" href="css/form.css">
 	<link rel="stylesheet" href="css/thumbs.css">
 	<link rel="stylesheet" href="css/slider.css">
@@ -14,8 +14,8 @@
 
 	<script src="js/jquery.js"></script>
 	<script src="js/jquery-migrate-1.2.1.js"></script>
-	<script src="js/script.js"></script>
-	<script src="js/superfish.js"></script>
+	<!-- <script src="js/script.js"></script>
+	<script src="js/superfish.js"></script> -->
 	<script src="js/sForm.js"></script>
 	<script src="js/jquery.ui.totop.js"></script>
 	<script src="js/jquery.equalheights.js"></script>
@@ -31,14 +31,30 @@
 		@import 'https://fonts.googleapis.com/css?family=Lobster';
 	</style>
 	<style>
+		.da-thumbs img {
+			width: 204px;
+			height: 160px;
+		}
+		p {
+			text-align: justify;
+		}
+		
+		h2.post-head {
+			padding-bottom: 20px;
+			text-align: center;
+		}
 
+		.post {
+			line-height: 20px;
+			font-size: 18px;
+		}
+		
 		.logo {
 			width: 71px;
 		}
 		h2.brend {
 			font-family: 'Lobster';
 			width: 590px;
-			text-align: center;
 			font-size: 48px;
 			vertical-align: top;
 			padding-top: 32px;
@@ -62,7 +78,18 @@
 
 		.fancybox img{
 			width: 20%;
+			height: 150px;
 			padding: 5px;
+		}
+
+		.fleft {
+			width: 200px;
+			/*height: 190px;*/
+		}
+
+		.da-thumbs li {
+			width: 204px;
+			text-align: center;
 		}
 	</style>
 	<!--[if lt IE 8]>
@@ -82,11 +109,6 @@
 		<header>
 			<div class="container_12">
 				<div class="grid_12">
-					<h1 id="logo" class="left">
-						<a class="logo" href="/">
-							<img src="images/logo.png" alt="Your Happy Family">
-						</a>
-					</h1>
 					<h2 class="brend left">Союз отцов Брянщины</h2>
 					<div class="menu_block ">
 						<!-- <a href="#" class="donate">DONATE</a> -->

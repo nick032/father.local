@@ -142,5 +142,5 @@
 })(jQuery);
 
 $(document).ready(function(){
-	$('.sf-menu').mobileMenu();
+	//$('.sf-menu').mobileMenu();
 });

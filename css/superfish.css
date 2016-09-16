@@ -161,7 +161,7 @@ nav{ position:relative;padding: 0px 0 0 0;}
 /*==================================RESPONSIVE LAYOUTS===============================================*/
 
 
-@media only screen and (max-width: 995px) {
+/* @media only screen and (max-width: 995px) {
 
 
 	.sf-menu>li{
@@ -198,10 +198,10 @@ nav{ position:relative;padding: 0px 0 0 0;}
 	
 
   header nav ul {
-  	border: none;
+  	// border: none;
   }
 
-	.sf-menu{display:none !important; float: none;}
+	.sf-menu{/display:none !important; float: none;}
 
 	#mm0{
 		font:12px/15px Arial, Helvetica, sans-serif;
@@ -209,9 +209,9 @@ nav{ position:relative;padding: 0px 0 0 0;}
 		width:100%;
 		margin: 0 auto;
 		float: none;
-    outline: none;
+    	outline: none;
 		border:2px solid #fff;
 	}
 	
 
-}
+} */

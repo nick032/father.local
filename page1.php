@@ -4,17 +4,17 @@
 			<div class="slider">
 				<div class="item item1">
 					<div class="inner">
-						<div class="text1"><span>Join our campaigns and give <br>hope to homeless people</span></div>
+						<!-- <div class="text1"><span>Join our campaigns and give <br>hope to homeless people</span></div> -->
 					</div>
 				</div>
 				<div class="item item2">
 					<div class="inner">
-						<div class="text1"><span>Make the right choice! <br>Help those who are in need.</span></div>
+						<!-- <div class="text1"><span>Make the right choice! <br>Help those who are in need.</span></div> -->
 					</div>
 				</div>
 				<div class="item item3">
 					<div class="inner">
-						<div class="text1"><span>Our mission is to engage more people in the fight <br> for better life of needy people</span></div>
+						<!-- <div class="text1"><span>Our mission is to engage more people in the fight <br> for better life of needy people</span></div> -->
 					</div>
 				</div>
 			</div>
@@ -30,7 +30,7 @@
 	<div class="container_12">
 		<div class="grid_6">
 			<h2>Кто мы</h2>
-			<img src="images/page1_img1.jpg" alt="" class="img_inner fleft">
+			<img src="images/logo.png" alt="" class="img_inner fleft">
 			<div class="extra_wrapper">
 				<p class="col2">Брянская региональная общественная организация "Союз отцов Брянщины"</p>
 				по поднятию и укреплению роли отца в семье <br>
@@ -47,74 +47,38 @@
 	</div>
 	<div class="hor"></div>
 	<div class="container_12">
-		<!-- <div class="grid_3">
-			<h2>Latest News</h2>
-			<ul class="list">
-				<li>
-					<time datetime="2014-01-01">29<span>Jan</span></time>
-					<div class="extra_wrapper">
-						<div class="title col2"><a href="#">Vivamuagna</a></div>
-						amus at magn
-						malesuada fauc
-					</div>
-				</li>
-				<li>
-					<time datetime="2014-01-01">02<span>Feb</span></time>
-					<div class="extra_wrapper">
-						<div class="title col2"><a href="#">Dereamuagne</a></div>
-						amus at magn
-						malesuada faut
-					</div>
-				</li>
-				<li>
-					<time datetime="2014-01-01">20<span>Feb</span></time>
-					<div class="extra_wrapper">
-						<div class="title col2"><a href="#">Hovamuagrt</a></div>
-						emus at mago malesuada fau
-					</div>
-				</li>
-				<li>
-					<time datetime="2014-01-01">05<span>Mar</span></time>
-					<div class="extra_wrapper">
-						<div class="title col2"><a href="#">Meloamuar</a></div>
-						ferus at magne malesuada faui
-					</div>
-				</li>
-			</ul>
-			<blockquote class="bq1">
-				<div class="title">Testimonials</div>
-				<p>Nulla vel viverra auctorleo magna sodales felis, quis malesuada nibh odio ut </p>
-				<div class="col2">Sandra Wood</div>
-			</blockquote>
-		</div> -->
+		
 		<div class="grid_12">
 			<h2>Наши мероприятия</h2>
 			<section>
 				<ul id="da-thumbs" class="da-thumbs">
 					<li>
-						<a href="#">
-						<img src="images/th1.jpg" alt="" />
-						<div><span>Helping Adults</span></div>
+						<h5>Заседание "Класс будущего отца" от 21.08.2015</h5>
+						<a href="/?url=page4">
+						<img src="images/no.jpg" alt="" />
+						<div><span>Заседание "Класс будущего отца" от 21.08.2015</span></div>
 						</a>
 					</li>
 					<li>
-						<a href="#">
-						<img src="images/th2.jpg" alt="" />
-						<div><span>Helping Children</span></div>
+						<h5>Дисскусия "Какую семью выбирает молодёжь"</h5>
+						<a href="/?url=page5">
+						<img src="images/no.jpg" alt="" />
+						<div><span>Дисскусия "Какую семью выбирает молодёжь"</span></div>
 						</a>
 					</li>
 					<li>
-						<a href="#">
-						<img src="images/th3.jpg" alt="" />
-						<div><span>Empowering Women</span></div>
+						<h5>Заседание "Класс будущего отца" от 28.08.2015</h5>
+						<a href="/?url=page6">
+						<img src="images/no.jpg" alt="" />
+						<div><span>Заседание "Класс будущего отца" от 28.08.2015 </span></div>
 						</a>
 					</li>
-					<li>
+					<!-- <li>
 						<a href="#">
 						<img src="images/th4.jpg" alt="" />
 						<div><span>Homes for Veterans</span></div>
 						</a>
-					</li>
+					</li> -->
 					<!-- <li>
 						<a href="#">
 						<img src="images/th5.jpg" alt="" />
@@ -154,10 +118,15 @@
 		<h2 id="about">О нас</h2>
 		<div class="grid_3">
 			
-			<div><img src="images/big4.jpg" alt="" width="200px"></div>
+			<div>
+				<a class="fancybox" rel="cert" href="images/img229.jpg" title="Свидетельство">
+					<img src="images/img229s_m.jpg" alt="" style="width: 159px;"/>
+				</a>
+			</div>
 		</div>
 		<div class="grid_9">
-			<p>Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Составитель продолжил запятых свое выйти, подпоясал точках, оксмокс наш рукописи там предупредила дал что собрал бросил если вопроса о своего прямо, рыбными за первую. Живет наш, заглавных большого, осталось страну эта! Агенство своего заголовок большой власти домах маленький коварный предупреждал рыбного, грустный, это рукопись имени текстами продолжил грамматики деревни. Его которой точках, lorem, меня приставка, щеке он инициал вершину деревни на берегу, ручеек по всей ты даже коварный злых снова себя силуэт выйти встретил. Семь она, себя точках запятых, вопроса всеми проектах встретил большого свою это большой по всей что грамматики щеке страну.</p>
+			<p>Задачи организации: объединение усилий граждан и организаций для решения общенациональных проблем в области  укрепления  и защиты семьи, содействие в разработке и реализации государственных социальных программ, направленных на поддержку семьи и отцовства.
+для повышения престижа отца в обществе готовит информационные материалы (статьи, буклеты, брошюры)</p>
 
 		</div>
 	</div>
@@ -217,6 +186,10 @@ $(document).ready(function() {
 	autoSlideTimer: 3300,
 	infiniteSlider: true
  });
+ $('.fancybox').fancybox({
+			openEffect	: 'none',
+			closeEffect	: 'none',
+  });
 });
 function slideChange(args) {
  $('.sliderContainer .slideSelectors .item').removeClass('selected');

@@ -5,35 +5,32 @@
 					<h2>Наш адрес</h2>
 					<div class="map">
 						<figure class="">
-							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d152673.52075943066!2d34.206880481016874!3d53.280152162928196!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4132a78d14da3a05%3A0x6ad84109759a19a0!2z0JHRgNGP0L3RgdC6LCDQkdGA0Y_QvdGB0LrQsNGPINC-0LHQuy4!5e0!3m2!1sru!2sru!4v1473656708170" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2387.600285866581!2d34.35865331599932!3d53.24294119015234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x412d58f604dabf5b%3A0xd0b950ea9cf9da9d!2z0YPQuy4g0J7QutGC0Y_QsdGA0YzRgdC60LDRjywgMzQsINCR0YDRj9C90YHQuiwg0JHRgNGP0L3RgdC60LDRjyDQvtCx0LsuLCAyNDEwNTA!5e0!3m2!1sru!2sru!4v1473830058495" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 						</figure>
 						<div class="grid_4 alpha">
 							<h2>Адрес:</h2>
 							<address>
 								<span class="fa fa-home"></span>
 								г. Брянск <br>
-								ул. Крсноармейская <br>
-								д 5 офис 7
+								ул. Октябрьская <br>
+								д 34, каб 110
 							</address>
 						</div>
 						<div class="grid_4">
 							<h2>Телефон:</h2>
 							<div class="m_phone">
 								<div class="fa fa-phone"></div>
-								+7 800 559 6580
+								8(4832)-74-24-12
 							</div>
-							<div class="m_phone">
-								<div class="fa fa-print"></div>
-								+7 889 9898138
-							</div>
+							
 						</div>
 						<div class="grid_4 omega">
-							<h2>Email:</h2>
-							<a href="#"><span class="fa fa-envelope-o"></span> mail@demolink.org</a>
+							<!-- <h2>Email:</h2>
+							<a href="#"><span class="fa fa-envelope-o"></span> mail@demolink.org</a> -->
 						</div>
 						<div class="clear"></div>
 					</div>
-					<h2>Связаться с нами</h2>
+					<!-- <h2>Связаться с нами</h2>
 					
 					<form id="form" method="post" action="bat/MailHandler.php">
 						<div class="success_wrapper">
@@ -62,12 +59,11 @@
 						<div>
 							<div class="clear"></div>
 							<div class="btns">
-								<!-- <input type="submit" class="btn" value="Sen"> -->
 								<a href="#" data-type="reset" class="btn">Clear</a>
 								<a href="#" data-type="submit" class="btn">Send</a>
 							</div>
 						</div>
-					</form>
+					</form> -->
 				</div>
 			</div>
 		</div>

@@ -2,31 +2,45 @@
 	<div class="container_12">
 		<div class="grid_12" style="min-height: 600px;"">
 			<div id="fancybox-wrap">
-				<h3>Наши фотографии<h3>
-				<a class="fancybox" rel="gallery1" href="http://farm2.staticflickr.com/1617/24108587812_6c9825d0da_b.jpg" title="Morning Godafoss (Brads5)">
-					<img src="http://farm2.staticflickr.com/1617/24108587812_6c9825d0da_m.jpg" alt="" />
+				<h2 style="padding: 30px; font-weight: 700; font-size: 25px;">Фотогалерея</h2>
+				
+				<a class="fancybox" rel="gallery1" href="images/gallary/img15092.jpg" title="">
+					<img src="images/gallary/img15092s_m.jpg" alt="" />
 				</a>
-				<a class="fancybox" rel="gallery1" href="http://farm4.staticflickr.com/3691/10185053775_701272da37_b.jpg" title="Vertical - Special Edition! (cedarsphoto)">
-					<img src="http://farm4.staticflickr.com/3691/10185053775_701272da37_m.jpg" alt="" />
+
+				<a class="fancybox" rel="gallery1" href="images/gallary/img15091.jpg" title="">
+					<img src="images/gallary/img15091s_m.jpg" alt="" />
 				</a>
-				<a class="fancybox" rel="gallery1" href="http://farm1.staticflickr.com/574/22407305427_69cc6e845f_b.jpg" title="Racing against the Protons (tom.leuzi)">
-					<img src="http://farm1.staticflickr.com/574/22407305427_69cc6e845f_m.jpg" alt="" />
+
+				<a class="fancybox" rel="gallery1" href="images/gallary/20.jpg" title="">
+					<img src="images/gallary/20s_m.jpg" alt="" />
 				</a>
-				<a class="fancybox" rel="gallery1" href="http://farm1.staticflickr.com/291/18653638823_a86b58523c_b.jpg" title="Lupines (Kiddi Einars)">
-					<img src="http://farm1.staticflickr.com/291/18653638823_a86b58523c_m.jpg" alt="" />
+				<a class="fancybox" rel="gallery1" href="images/gallary/19.jpg" title="">
+					<img src="images/gallary/19s_m.jpg" alt="" />
 				</a>
-				<a class="fancybox" rel="gallery1" href="http://farm2.staticflickr.com/1617/24108587812_6c9825d0da_b.jpg" title="Morning Godafoss (Brads5)">
-					<img src="http://farm2.staticflickr.com/1617/24108587812_6c9825d0da_m.jpg" alt="" />
+				<a class="fancybox" rel="gallery1" href="images/gallary/18.jpg" title="">
+					<img src="images/gallary/18s_m.jpg" alt="" />
 				</a>
-				<a class="fancybox" rel="gallery1" href="http://farm4.staticflickr.com/3691/10185053775_701272da37_b.jpg" title="Vertical - Special Edition! (cedarsphoto)">
-					<img src="http://farm4.staticflickr.com/3691/10185053775_701272da37_m.jpg" alt="" />
+				<a class="fancybox" rel="gallery1" href="images/gallary/17.jpg" title="">
+					<img src="images/gallary/17s_m.jpg" alt="" />
 				</a>
-				<a class="fancybox" rel="gallery1" href="http://farm1.staticflickr.com/574/22407305427_69cc6e845f_b.jpg" title="Racing against the Protons (tom.leuzi)">
-					<img src="http://farm1.staticflickr.com/574/22407305427_69cc6e845f_m.jpg" alt="" />
+				
+				<a class="fancybox" rel="gallery1" href="images/gallary/9.jpg" title="">
+					<img src="images/gallary/9s_m.jpg" alt="" />
 				</a>
-				<a class="fancybox" rel="gallery1" href="http://farm1.staticflickr.com/291/18653638823_a86b58523c_b.jpg" title="Lupines (Kiddi Einars)">
-					<img src="http://farm1.staticflickr.com/291/18653638823_a86b58523c_m.jpg" alt="" />
+				<a class="fancybox" rel="gallery1" href="images/gallary/10.jpg" title="">
+					<img src="images/gallary/10s_m.jpg" alt="" />
 				</a>
+				<a class="fancybox" rel="gallery1" href="images/gallary/11.jpg" title="">
+					<img src="images/gallary/11s_m.jpg" alt="" />
+				</a>
+
+				<a class="fancybox" rel="gallery1" href="images/gallary/14.jpg" title="">
+					<img src="images/gallary/14s_m.jpg" alt="" />
+				</a>
+				
+				
+				
 			</div>
 		</div>
 </div>
